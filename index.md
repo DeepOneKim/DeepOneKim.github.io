@@ -98,7 +98,7 @@
 
 # [대표이미지 + 컨셉 설명 및 작품 묘사]
 
-![메인1](https://user-images.githubusercontent.com/49381621/135262976-c8a6e948-f74c-436a-b0fd-7d2d7e4ab03e.jpg)
+![메인1](https://user-images.githubusercontent.com/49381621/135263482-d1e514eb-ebb3-4958-82b8-2a79775796c8.jpg)
 
 ![메인2](https://user-images.githubusercontent.com/49381621/135262981-e5d08e15-72e4-4034-b531-e5b3efe88813.jpg)
 
