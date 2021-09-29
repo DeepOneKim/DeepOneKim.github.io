@@ -47,7 +47,7 @@
 
 [![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
-* 위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.
+(위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
 
 단순한 체력바와 게이지 시스템 (체력이 칸으로 되어 있음)
 
@@ -57,7 +57,9 @@
 
 - Divekick (1분 10초 부터)
 
-[![](./img/그림.png)](https://www.youtube.com/watch?v=S5UV17aotac)
+[![](https://user-images.githubusercontent.com/49381621/135261167-7ecabfd1-dd6c-49d6-b60d-5efd48f2a6ac.jpg)](https://www.youtube.com/watch?v=S5UV17aotac)
+
+(위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
 
 방향키와 점프 버튼, 다이브킥 버튼만 존재
 
@@ -67,7 +69,9 @@
 
 - Footsies (40초 부터)
 
-[![](./img/그림.png)](https://www.youtube.com/watch?v=dcMrn71t8Rs)
+[![](https://user-images.githubusercontent.com/49381621/135261210-86fc9b96-59b5-4b78-838f-737dc0cdda70.PNG)](https://www.youtube.com/watch?v=dcMrn71t8Rs)
+
+(위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
 
 2D격투게임의 시초라고 할 수 있는 스트리트파이터 시리즈의 패러디 게임
 
