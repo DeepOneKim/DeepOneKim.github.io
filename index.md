@@ -45,11 +45,12 @@
 
 ## 참고한 게임
 
-- fantasy strike (11분 부터)
+- fantasy strike 
 
 [![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
 (위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
+(11분 부터 경기 시작)
 
 단순한 체력바와 게이지 시스템. 체력이 칸으로 되어 있다.
 
@@ -57,23 +58,25 @@
 
 가드를 하고 있는 상대를 공격가능한 잡기 기술은 상대가 아무 행동도 하지 않는다면, 잡히지 않는다.
 
-- Divekick (1분 10초 부터)
+- Divekick
 
 [![](https://user-images.githubusercontent.com/49381621/135261167-7ecabfd1-dd6c-49d6-b60d-5efd48f2a6ac.jpg)](https://www.youtube.com/watch?v=S5UV17aotac)
 
 (위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
-
+(1분 10초 부터 경기 시작)
+ 
 방향키와 점프 버튼, 다이브킥 버튼만 존재하는 극단적으로 단순한 조작이 특징. 다이브킥에 맞으면 반드시 한방에 패배한다!
 
 따라서 체력 게이지가 없고 라운드 수가 기본 세팅 기준으로 많다.
 
 가드를 할 수 없고 관련 시스템도 없기 때문에 거리조절과 타이밍 싸움이 매우 중요하다.
 
-- Footsies (40초 부터)
+- Footsies
 
 [![](https://user-images.githubusercontent.com/49381621/135261210-86fc9b96-59b5-4b78-838f-737dc0cdda70.PNG)](https://www.youtube.com/watch?v=dcMrn71t8Rs)
 
 (위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.)
+(40초 부터 경기 시작)
 
 스트리트파이터 시리즈의 패러디 게임이다.
 
@@ -93,17 +96,29 @@
 
 <br><br>
 
-# [대표 이미지]
+# [대표이미지 + 컨셉 설명 및 작품 묘사]
 
-![그림](./img/그림.png)
+![메인1](https://user-images.githubusercontent.com/49381621/135262976-c8a6e948-f74c-436a-b0fd-7d2d7e4ab03e.jpg)
 
-<br><br>
+![메인2](https://user-images.githubusercontent.com/49381621/135262981-e5d08e15-72e4-4034-b531-e5b3efe88813.jpg)
 
-# [컨셉 & 대표이미지 기반 작품묘사]
+![메인3](https://user-images.githubusercontent.com/49381621/135262984-244d549d-f183-4f0d-8d42-627b86bf3897.jpg)
 
-> ### 대표이미지 기반 :
+![메인4](https://user-images.githubusercontent.com/49381621/135262985-f15bfbb7-b0d8-4de5-88c2-aa5fd1bab808.jpg)
 
-> ### 컨셉 기반:
+![메인5](https://user-images.githubusercontent.com/49381621/135262987-6b2b44ad-5417-41ee-b669-f4d07138d6f3.jpg)
+
+![메인6](https://user-images.githubusercontent.com/49381621/135262988-43e1e3d6-bed4-4e15-a4f1-eed3ab6b45e4.jpg)
+
+![메인7](https://user-images.githubusercontent.com/49381621/135262989-120bc4eb-233b-4abe-94be-69c6e995d0cf.jpg)
+
+![메인8](https://user-images.githubusercontent.com/49381621/135262991-958f4a6f-c2f3-4450-bd91-e7d7a66a2733.jpg)
+
+![메인9](https://user-images.githubusercontent.com/49381621/135262992-d5bd1526-18a5-4ead-8f28-cc90c32ca446.jpg)
+
+![메인10](https://user-images.githubusercontent.com/49381621/135262994-b1b786e8-fee6-4bbb-95bb-ef713cc47fa8.jpg)
+
+![메인11](https://user-images.githubusercontent.com/49381621/135262996-d5932b57-aa0f-471e-a24b-46247f30f588.jpg)
 
 <br><br>
 
