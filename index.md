@@ -47,6 +47,8 @@
 
 [![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
+* 위 이미지를 클릭하면 해당 게임의 경기 영상링크로 이동합니다.
+
 단순한 체력바와 게이지 시스템 (체력이 칸으로 되어 있음)
 
 전통적인 2D스타일 게임에 존재하는 다양한 심리가 존재
