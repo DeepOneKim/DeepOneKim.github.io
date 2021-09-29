@@ -45,7 +45,7 @@
 
 - fantasy strike (11분 부터)
 
-[![](./img/그림.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
+[![](![FS](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)g)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
 단순한 체력바와 게이지 시스템 (체력이 칸으로 되어 있음)
 
