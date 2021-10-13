@@ -231,17 +231,17 @@ Unity 2D
 # [키보드 이벤트에 대한 흐름도] <a name='7'></a>
 
 # [개발 작업] <a name='8'></a>
-## 10. [1주차 작업 결과](files/w01/index.md)
+[1주차 작업 결과](files/w01/index.md)
 
-## 10. [2주차 작업 결과](files/w01/w02.md)
+[2주차 작업 결과](files/w01/w02.md)
 
-## 10. [3주차 작업 결과](files/w01/w03.md)
+[3주차 작업 결과](files/w01/w03.md)
 
-## 10. [4주차 작업 결과](files/w01/w04.md)
+[4주차 작업 결과](files/w01/w04.md)
 
-## 10. [5주차 작업 결과](files/w01/w05.md)
+[5주차 작업 결과](files/w01/w05.md)
 
-## 10. [6주차 작업 결과](files/w01/w06.md)
+[6주차 작업 결과](files/w01/w06.md)
 <br>
 
 <br>
