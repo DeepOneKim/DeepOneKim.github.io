@@ -228,10 +228,9 @@ Unity 2D
 
 # [게임 플레이 시나리오 개요](#0) <a name='5-2'></a>
 
-## 내용보기(개발자 관점)(gameplayscenario1.md)
-
-
-## 내용보기(유저 관점)(gameplayscenario2.md)
+[내용보기(개발자 관점)](gameplayscenario1.md)
+<br>
+[내용보기(유저 관점)](gameplayscenario2.md)
 
 
 # [요구사항(6주차)](#0) <a name='6-1'></a>
