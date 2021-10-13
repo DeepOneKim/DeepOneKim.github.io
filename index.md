@@ -224,11 +224,12 @@ Unity 2D
 
 
 # [게임 시스템 디자인](#0) <a name='5-1'></a>
-## 내용보기(files/w01/index.md)
+## 내용보기[![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
 # [게임 플레이 시나리오 개요](#0) <a name='5-2'></a>
-## 내용보기(개발자 관점)(files/w01/index.md)
-## 내용보기(유저 관점)(files/w01/index.md)
+## 내용보기(개발자 관점)[![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
+
+## 내용보기(유저 관점)[![](https://user-images.githubusercontent.com/49381621/135260825-3d24b0db-fcc6-44e3-b570-e30bfa5c4b8f.png)](https://www.youtube.com/watch?v=vBT7ZyJOU4A&t=1713s)
 
 # [요구사항(6주차)](#0) <a name='6-1'></a>
 
