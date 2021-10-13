@@ -224,7 +224,7 @@ Unity 2D
 
 
 # [게임 시스템 디자인](#0) <a name='5-1'></a>
-## [내용보기](DeepOneKim.github.io/gameplayscenario2.md)
+## [내용보기](https://DeepOneKim.github.io/gameplayscenario2.md)
 
 # [게임 플레이 시나리오 개요](#0) <a name='5-2'></a>
 
