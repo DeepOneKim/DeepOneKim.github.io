@@ -243,7 +243,7 @@ Unity 2D
 # [개발 작업](#0) <a name='7'></a>
 
 ## [개발 일정]
-[![](https://user-images.githubusercontent.com/49381621/139059099-975820e0-9505-4c12-bfc0-726a52b0fad3.PNG)]
+![](https://user-images.githubusercontent.com/49381621/139059099-975820e0-9505-4c12-bfc0-726a52b0fad3.PNG)
 
 
 ## [1주차 작업 결과]
