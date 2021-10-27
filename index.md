@@ -143,9 +143,13 @@
 
 ### 조작법/버튼
 
-←, ↓, → 방향 입력 (A, S, D)
+←, ↓, → 방향 입력 (a, s, d)
+P(unch), K(ick), S(pecial) 버튼 (g, h, j)
 
-P(unch), K(ick), S(pecial) 버튼 (G, H, J)
+연습장 더미의 경우
+←, ↓, → 방향입력 (방향키 ←, ↓, →)
+P(unch), K(ick), S(pecial) 버튼 (numpad4, numpad5, numpad6)
+
 ### 기본 시스템
 
 유저는 좌측 플레이어 (1P), 우측 플레이어 (2P)로 구성됨
