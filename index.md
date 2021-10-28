@@ -10,6 +10,7 @@
 ### 5-2. [게임 플레이 시나리오 개요](#5-2)
 ### 6. [개발 요구사항](#6)
 ### 7. [개발 작업](#7)    
+### 8. [소스](#8)
 
 # [컨셉](#0) <a name='1'></a>
 
@@ -249,7 +250,7 @@ Unity 2D
 
 [내용보기](gameprogress.md)
 
-## 소스
+# [소스](#0) <a name='8></a>
 - [스콜피온 스프라이트](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
 - [서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
 - [케이노 스프라이트](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
