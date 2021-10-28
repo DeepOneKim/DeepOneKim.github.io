@@ -11,7 +11,7 @@
 ### 7. [6주차 작업 요구사항 & 결과](#7)  
 
 ## [개발 일정](#0) <a name='1'></a>
-![](https://user-images.githubusercontent.com/49381621/139174728-d3377821-0da4-456f-af08-22e3f9aa05da.PNG)
+![](https://user-images.githubusercontent.com/49381621/139174810-4c9ff4c7-b4e3-4e11-bd0f-eb25abbb97fe.PNG)
 
 - 멀티플레이의 경우 이번 프로젝트에서는 서버 멀티가 아닌 로컬 멀티로 만들 예정
 - 따라서 연습장은 타이머와 승부체크가 없는 모드가 될 것임
