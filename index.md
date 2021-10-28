@@ -250,10 +250,10 @@ Unity 2D
 [내용보기](gameprogress.md)
 
 ## 소스
--스콜피온
--서브-제로
-[(-케이노 )](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)
--소냐 블레이드
+- [스콜피온 스프라이트](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
+- [서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
+- [케이노 스프라이트](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
+- [소냐 블레이드 스프라이트](https://www.mortalkombatwarehouse.com/mk1/sonya/)<br>
 
 
 <br>
