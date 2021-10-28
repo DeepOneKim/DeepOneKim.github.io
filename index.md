@@ -252,7 +252,7 @@ Unity 2D
 ## 소스
 -스콜피온
 -서브-제로
-[![](-케이노 )](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)
+[(-케이노 )](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)
 -소냐 블레이드
 
 
