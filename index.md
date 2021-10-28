@@ -1,5 +1,5 @@
 # 프로젝트명: Mighter Fighters
-
+- 더 강한(Mightier) 파이터(Fighter)를 가린다는 의미로 라임을 맞추어 만든 제목 (원래 mighter는 틀린 표현임)
 ## 목차 <a name='0'></a>
 - 클릭하면 이동합니다.
 ### 1. [컨셉](#1)
