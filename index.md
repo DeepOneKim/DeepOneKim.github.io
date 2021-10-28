@@ -247,7 +247,7 @@ Unity 2D
 
 # [개발 작업](#0) <a name='7'></a>
 
-[내용보기(개발자 관점)](gameprogress.md)
+[내용보기)](gameprogress.md)
 
 
 
