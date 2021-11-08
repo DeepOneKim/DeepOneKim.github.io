@@ -35,13 +35,13 @@
 캐릭터가 4명이므로 총 56개의 모션이 있는 것이다.<br>
 이렇게 정리한 각각의 캐릭터 스프라이트 들을 모션별로 분류해 유니티 에셋에 넣고 분류해 주었다.
 그 후에는 작 모션별로 애니메이션을 만들어 캐릭터들에게 나누어 줬다.
-![2](https://user-images.githubusercontent.com/49381621/140686574-cc379c7c-ff05-4be2-b659-c9fa74da71cf.png)
-테스트를 위해 만든 테스트 씬에 지형 역할을 대신할 Floor 오브젝트와 각 구현할 캐릭터들을 놓고 중력을 적용하여 넣었다.
-![image](https://user-images.githubusercontent.com/49381621/140686722-a6581116-0a09-485b-b987-c2aa4bec423f.png)
-그 다음 캐릭터들의 가장 기본적인 애니메이션인 Neutral(아무 행동도 안한 자세) 애니메이션을 넣기 위해 애니메이터에서 지정해 주었다.
-![6](https://user-images.githubusercontent.com/49381621/140686808-cd4cbb3c-754f-40f7-8561-0e64242efaf5.PNG)
+![2](https://user-images.githubusercontent.com/49381621/140686574-cc379c7c-ff05-4be2-b659-c9fa74da71cf.png)<br>
+테스트를 위해 만든 테스트 씬에 지형 역할을 대신할 Floor 오브젝트와 각 구현할 캐릭터들을 놓고 중력을 적용하여 넣었다.<br>
+![image](https://user-images.githubusercontent.com/49381621/140686722-a6581116-0a09-485b-b987-c2aa4bec423f.png)<br>
+그 다음 캐릭터들의 가장 기본적인 애니메이션인 Neutral(아무 행동도 안한 자세) 애니메이션을 넣기 위해 애니메이터에서 지정해 주었다.<br>
+![6](https://user-images.githubusercontent.com/49381621/140686808-cd4cbb3c-754f-40f7-8561-0e64242efaf5.PNG)<br>
 이제 기본적인 화면에서 게임을 실행하면 4명의 캐릭터들이 모두 Neutral 애니메이션을 재생한다.
-
+<br><br>
 ## [2주차 작업 요구사항 &  결과](#0) <a name='3'></a>
 -2주차 요구사항: <br> 
 작업명: 캐릭터 기술, 행동 구현 및 캐릭터간 상호작용 <br>
