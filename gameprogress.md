@@ -29,10 +29,10 @@
 <br>
 ![3](https://user-images.githubusercontent.com/49381621/140686469-a65d3260-c937-4d37-8750-e43d4168aa8f.PNG)
 ![1](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
+<br>
 (예. 스콜피온의 스프라이트 자료) 
-캐릭터별 모션은 각 14개 항목씩으로, 각각
-Being Hit(피격시), Blocking(가드), Walk(걷기), Stand Punch(펀치), Stand Kick(킥), Stand Special(스페셜), Duck(앉기), Duck Punch(앉아 펀치), Duck Kick(앉아 킥), Duck Special(앉아 스페셜), Falling(패배시 쓰러지는 모션), Win Pose(승리 포즈), Timeout Lose(타임아웃 패배시 모션) 이 있다.
-이에 4명의 캐릭터 이므로 총 56개의 모션이 있는 것이다.
+캐릭터별 모션은 각 14개 항목씩으로, 각각 Being Hit(피격시), Blocking(가드), Walk(걷기), Stand Punch(펀치), Stand Kick(킥), Stand Special(스페셜), Duck(앉기), Duck Punch(앉아 펀치), Duck Kick(앉아 킥), Duck Special(앉아 스페셜), Falling(패배시 쓰러지는 모션), Win Pose(승리 포즈), Timeout Lose(타임아웃 패배시 모션)이 있다. <br>
+캐릭터가 4명이므로 총 56개의 모션이 있는 것이다.<br>
 이렇게 정리한 각각의 캐릭터 스프라이트 들을 모션별로 분류해 유니티 에셋에 넣고 분류해 주었다.
 그 후에는 작 모션별로 애니메이션을 만들어 캐릭터들에게 나누어 줬다.
 ![2](https://user-images.githubusercontent.com/49381621/140686574-cc379c7c-ff05-4be2-b659-c9fa74da71cf.png)
