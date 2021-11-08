@@ -52,9 +52,9 @@
 <br>
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/49381621/140690677-bfae10ef-6d55-49f4-8844-0cc8864b8fbf.mp4" type="video/mp4">
   </video>
 </figure>
-https://user-images.githubusercontent.com/49381621/140690677-bfae10ef-6d55-49f4-8844-0cc8864b8fbf.mp4
 <br><br>
 ## [2주차 작업 요구사항 &  결과](#0) <a name='3'></a>
 -2주차 요구사항: <br> 
