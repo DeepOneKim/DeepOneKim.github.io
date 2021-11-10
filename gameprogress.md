@@ -74,8 +74,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 추가적으로 캐릭터들이 스크린 밖으로 넘어가지 않게 하도록 한다.
 <details>
     <summary>2주차 작업 내용 보기 (펼치기)</summary>
-  
-    <br>
+<br>
 ![](https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG)<br>    
 1주차에 정리한 수많은 스프라이트와 애니메이션을 이제 실제로 적용하고 후에 캐릭터 선택 등으로 지정될 1p, 2p의 캐릭터 오브젝트를 만들기 위해서 prefab을 생성했다. 이렇게 생성한 prefab에 1주차 때 적용했었던 중력, 충돌, 판정 등의 컴포넌트를 관리하기 용이하게 세분화하여 나눴다.<br>
 ![](https://user-images.githubusercontent.com/49381621/141196517-a4c0f1e3-5456-4c9e-8b4e-d4276f46f384.PNG)<br>
@@ -96,7 +95,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>3주차 작업 내용 보기 (펼치기)</summary>
     
-    <br>
+<br>
     
 <br>    
 </details>
@@ -111,7 +110,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>4주차 작업 내용 보기 (펼치기)</summary>
     
-    <br>
+<br>
     
 <br>    
 </details>
@@ -122,7 +121,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>5주차 작업 내용 보기 (펼치기)</summary>
     
-    <br>
+<br>
     
 <br>    
 </details>
@@ -133,7 +132,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>6주차 작업 내용 보기 (펼치기)</summary>
     
-    <br>
+<br>
     
 <br>    
 </details>
