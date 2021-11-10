@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/49381621/141198185-67cfa11a-c3a6-4730-
 ![](https://user-images.githubusercontent.com/49381621/141195691-668bdad3-ab71-4db5-b366-07b5b70284ac.PNG) <br>
 상대 캐릭터와 충돌시 이동이 제한되도록 지정해줄 몸 판정(MovementCollider)이다. 이는 양 캐릭터가 스크린 밖으로 벗어나는 것도 막아줄수 있다 (카메라 화면 너머에 보이지 않는 Collider(투명 벽)을 만들었다). <br>
 ![](https://user-images.githubusercontent.com/49381621/141195880-b89c7af1-89f7-4879-a538-645cf10723d9.PNG) <br>
-피격 판정 박스이다. 앉은 자세 공격의 상단 공격 회피를 위해서 Top, Bottom으로 나눴다.        
+피격 판정 박스이다. Top, Bottom으로 각 상반신과 하반신으로 나누었는데, 그 이유는 앉은 자세의 상단 공격 회피를 구현하기 위해서이다. 전신 무적 판정의 기술 사용시 모든 피격 판정 박스가 사라진다.
     
 </details>
 
