@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>2주차 작업 내용 보기 (펼치기/접기)</summary>
     
-![](https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG?raw=true) <br>    
+<img src ="https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG"> <br>    
     
 1주차에 정리한 수많은 스프라이트와 애니메이션을 실제로 적용하고 후에 캐릭터 선택 등으로 지정될 1p, 2p의 캐릭터 오브젝트를 만들기 위해서 prefab을 생성했다. 이렇게 생성한 prefab에 1주차 때 적용했었던 중력, 충돌, 판정 등의 컴포넌트를 관리하기 용이하게 세분화하여 나눴다. <br>
     
