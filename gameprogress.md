@@ -76,15 +76,15 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
     <summary>2주차 작업 내용 보기 (펼치기)</summary>
   
     <br>
-1주차에 정리한 수많은 스프라이트와 애니메이션을 이제 실제로 적용하고 후에 캐릭터 선택 등으로 지정될 1p, 2p의 캐릭터 오브젝트를 만들기 위해서 prefab을 생성했다. 이렇게 생성한 prefab에 1주차 때 적용했었던 중력, 충돌, 판정 등의 컴포넌트를 관리하기 용이하게 세분화하여 나눴다.
-    
-    
-    
-    
-    
-    
-    
-    
+![](https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG)<br>    
+1주차에 정리한 수많은 스프라이트와 애니메이션을 이제 실제로 적용하고 후에 캐릭터 선택 등으로 지정될 1p, 2p의 캐릭터 오브젝트를 만들기 위해서 prefab을 생성했다. 이렇게 생성한 prefab에 1주차 때 적용했었던 중력, 충돌, 판정 등의 컴포넌트를 관리하기 용이하게 세분화하여 나눴다.<br>
+![](https://user-images.githubusercontent.com/49381621/141196517-a4c0f1e3-5456-4c9e-8b4e-d4276f46f384.PNG)<br>
+저번주에는 캐릭터의 스프라이트 정리 및 애니메이션 지정만 해주었는데, 이는 하나하나 재생해 보면 실제로는 굉장히 부자연스럽거나 어색하게 보였다. 앉은 자세 공격을 할때는 이미지 파일의 크기 차이로 캐릭터가 위아래로 출렁거렸고, 일부 액션들의 속도가 너무 빠르거나 느렸다. 그래서 각 무브셋에 해당하는 스프라이트를 삭제하거나 수정하고, 애니메이션 탭을 이용해 프레임 속도와 프레임 당 이미지 position을 지정해 주는 작업을 했다.
+![2](https://user-images.githubusercontent.com/49381621/141195691-668bdad3-ab71-4db5-b366-07b5b70284ac.PNG)<br>
+상대 캐릭터와 충돌시 이동이 제한되도록 지정해줄 몸 판정(MovementCollider)을 만든다. 이는 양 캐릭터가 스크린 밖으로 벗어나는 것도 막아줄수 있다.
+![3](https://user-images.githubusercontent.com/49381621/141195880-b89c7af1-89f7-4879-a538-645cf10723d9.PNG)<br>
+피격 판정 박스이다. 앉은 자세 공격의 상단 공격 회피를 위해서 Top, Bottom으로 나눴다.    
+<br>    
 </details>
 
 ## [3주차 작업 요구사항 &  결과](#0) <a name='4'></a>
@@ -98,6 +98,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
     
     <br>
     
+<br>    
 </details>
 
 ## [4주차 작업 요구사항 &  결과](#0) <a name='5'></a>
@@ -112,6 +113,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
     
     <br>
     
+<br>    
 </details>
 
 ## [5주차 작업 요구사항 &  결과](#0) <a name='6'></a>
@@ -122,6 +124,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
     
     <br>
     
+<br>    
 </details>
 
 ## [6주차 작업 요구사항 &  결과](#0) <a name='7'></a>
@@ -132,4 +135,5 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
     
     <br>
     
+<br>    
 </details>
