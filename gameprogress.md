@@ -84,6 +84,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 https://user-images.githubusercontent.com/49381621/141198185-67cfa11a-c3a6-4730-8443-c3d9b1e784f5.mp4
 
 <br>
+    
 ![](https://user-images.githubusercontent.com/49381621/141195691-668bdad3-ab71-4db5-b366-07b5b70284ac.PNG) <br>
 상대 캐릭터와 충돌시 이동이 제한되도록 지정해줄 몸 판정(MovementCollider)이다. 이는 양 캐릭터가 스크린 밖으로 벗어나는 것도 막아줄수 있다 (카메라 화면 너머에 보이지 않는 Collider(투명 벽)을 만들었다). <br>
 ![](https://user-images.githubusercontent.com/49381621/141195880-b89c7af1-89f7-4879-a538-645cf10723d9.PNG) <br>
