@@ -64,11 +64,13 @@
     
 이제 기본적인 화면에서 게임을 실행하면 4명의 캐릭터들이 모두 Neutral 애니메이션을 재생한다.
 <br>
-<video>
     
-<source src ="https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-b06e-93e8598f5861.mp4">
-    
-</video>    
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-b06e-93e8598f5861.mp4" type="video/mp4">
+  </video>
+</figure>
+
 <br>
  </details>
  
