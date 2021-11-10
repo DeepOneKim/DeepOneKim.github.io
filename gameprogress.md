@@ -41,8 +41,9 @@
 <br>
 1-2주차 작업 사항중 가장 첫번째로 한 것은 4명의 캐릭터들 고유의 모션 스프라이트 자료를 받아서 이들을 각각 모션별 하나의 애니메이션으로 만들기 위해 정리하는 것이였다. 외부 사이트에서 받은 스프라이트 자료들을 내가 원하는 무브셋에 맞게 정리하여 자연스럽게 보이도록 프레임을 삭제하거나 추가해주며 맞춰줬다.
 <br>
-    
-![](https://user-images.githubusercontent.com/49381621/141069247-dd5e96aa-e6d0-4e8a-922c-eebf4680991a.png?raw=true)
+
+<img src="https://user-images.githubusercontent.com/49381621/141069247-dd5e96aa-e6d0-4e8a-922c-eebf4680991a.png?raw=true">
+![]()
     
 ![](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
     
