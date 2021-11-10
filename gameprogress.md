@@ -19,7 +19,7 @@
 
 ## [캐릭터 기술표](#0) <a name='1-1'></a>
 
-[Mighter Fighters 캐릭터 기술표.xlsx](https://github.com/DeepOneKim/DeepOneKim.github.io/files/7494509/Mighter.Fighters.xlsx)
+[Mighter Fighters 캐릭터 기술표.xlsx 액셀파일 다운로드](https://github.com/DeepOneKim/DeepOneKim.github.io/files/7494509/Mighter.Fighters.xlsx)
 
 캐릭터 구현 시 참고 및 게임 밸런스 조정을 위해 적용할 내용을 정리한 캐릭터 기술표입니다. <br>
 게임이 완성된 후에 이 자료를 토대로 프레임 데이터와 기술의 특성을 숙지한다면 대전에서 더 쉽게 이길 수 있을 겁니다.
