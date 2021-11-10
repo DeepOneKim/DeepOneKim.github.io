@@ -43,7 +43,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/49381621/141069247-dd5e96aa-e6d0-4e8a-922c-eebf4680991a.png?raw=true">
-![]()
     
 ![](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
     
