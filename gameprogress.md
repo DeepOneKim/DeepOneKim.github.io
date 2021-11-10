@@ -36,8 +36,9 @@
 작업내용: 캐릭터들의 스프라이트 소스를 이용해 각 무브셋에 필요한 프레임 별로 분류하여 나누고, 애니메이션으로 묶어 지정해주기 <br>
 <br>
 <details>
-    <summary>작업 내용 보기 (펼치기)</summary>
+    <summary>1주차 작업 내용 보기 (펼치기)</summary>
   
+<br>
 1-2주차 작업 사항중 가장 첫번째로 한 것은 4명의 캐릭터 각각의 모션들의 스프라이트 자료를 받아 이를 하나의 애니메이션으로 만들기 위해 정리하는 것이였다.
 <br>
 ![3](https://user-images.githubusercontent.com/49381621/140686469-a65d3260-c937-4d37-8750-e43d4168aa8f.PNG)
@@ -72,6 +73,8 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 
 <details>
     <summary>2주차 작업 내용 보기 (펼치기)</summary>
+  
+    <br>
     
 </details>
 
@@ -83,6 +86,8 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 
 <details>
     <summary>3주차 작업 내용 보기 (펼치기)</summary>
+    
+    <br>
     
 </details>
 
@@ -96,6 +101,8 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>4주차 작업 내용 보기 (펼치기)</summary>
     
+    <br>
+    
 </details>
 
 ## [5주차 작업 요구사항 &  결과](#0) <a name='6'></a>
@@ -104,6 +111,8 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>5주차 작업 내용 보기 (펼치기)</summary>
     
+    <br>
+    
 </details>
 
 ## [6주차 작업 요구사항 &  결과](#0) <a name='7'></a>
@@ -111,5 +120,7 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 
 <details>
     <summary>6주차 작업 내용 보기 (펼치기)</summary>
+    
+    <br>
     
 </details>
