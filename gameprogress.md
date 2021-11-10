@@ -13,7 +13,7 @@
 
 ## [개발 일정](#0) <a name='1'></a>
 
-![](https://user-images.githubusercontent.com/49381621/141066891-01487f6c-1e59-4033-8b26-b4e162531207.PNG)
+![](https://user-images.githubusercontent.com/49381621/141066891-01487f6c-1e59-4033-8b26-b4e162531207.PNG?raw=true)
 
 - (3주차 변경 사항)개발 일정을 대폭 수정하였습니다. 주차별 요구사항도 이에 맞춰 변경되었습니다.
 - 멀티플레이의 경우 이번 프로젝트에서는 서버 멀티가 아닌 로컬 멀티로 만들 예정
@@ -42,9 +42,9 @@
 1-2주차 작업 사항중 가장 첫번째로 한 것은 4명의 캐릭터들 고유의 모션 스프라이트 자료를 받아서 이들을 각각 모션별 하나의 애니메이션으로 만들기 위해 정리하는 것이였다. 외부 사이트에서 받은 스프라이트 자료들을 내가 원하는 무브셋에 맞게 정리하여 자연스럽게 보이도록 프레임을 삭제하거나 추가해주며 맞춰줬다.
 <br>
 
-<img src="https://user-images.githubusercontent.com/49381621/141069247-dd5e96aa-e6d0-4e8a-922c-eebf4680991a.png?raw=true">
+![](https://user-images.githubusercontent.com/49381621/141069247-dd5e96aa-e6d0-4e8a-922c-eebf4680991a.png?raw=true)
     
-![](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
+![](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG?raw=true)
     
 (예. 스콜피온의 스프라이트 자료) 
 캐릭터별 모션은 각 14개 항목씩으로, 각각 Being Hit(피격시), Blocking(가드), Walk(걷기), Stand Punch(펀치), Stand Kick(킥), Stand Special(스페셜), Duck(앉기), Duck Punch(앉아 펀치), Duck Kick(앉아 킥), Duck Special(앉아 스페셜), Falling(패배시 쓰러지는 모션), Win Pose(승리 포즈), Timeout Lose(타임아웃 패배시 모션)이 있다. <br>
@@ -52,15 +52,15 @@
 이렇게 정리한 각각의 캐릭터 스프라이트 들을 모션별로 분류해 유니티 에셋에 넣고 분류해 주었다.
 그 후에는 작 모션별로 애니메이션을 만들어 캐릭터들에게 나누어 줬다.
     
-![](https://user-images.githubusercontent.com/49381621/140686574-cc379c7c-ff05-4be2-b659-c9fa74da71cf.png)<br>
+![](https://user-images.githubusercontent.com/49381621/140686574-cc379c7c-ff05-4be2-b659-c9fa74da71cf.png?raw=true)<br>
     
 테스트를 위해 만든 테스트 씬에 지형 역할을 대신할 Floor 오브젝트와 각 구현할 캐릭터들을 놓고 중력을 적용하여 넣었다.<br>
     
-![image](https://user-images.githubusercontent.com/49381621/140686722-a6581116-0a09-485b-b987-c2aa4bec423f.png)<br>
+![image](https://user-images.githubusercontent.com/49381621/140686722-a6581116-0a09-485b-b987-c2aa4bec423f.png?raw=true)<br>
     
 그 다음 캐릭터들의 가장 기본적인 애니메이션인 Neutral(아무 행동도 안한 자세) 애니메이션을 넣기 위해 애니메이터에서 지정해 주었다.<br>
     
-![](https://user-images.githubusercontent.com/49381621/140686808-cd4cbb3c-754f-40f7-8561-0e64242efaf5.PNG)<br>
+![](https://user-images.githubusercontent.com/49381621/140686808-cd4cbb3c-754f-40f7-8561-0e64242efaf5.PNG?raw=true)<br>
     
 이제 기본적인 화면에서 게임을 실행하면 4명의 캐릭터들이 모두 Neutral 애니메이션을 재생한다.
 <br>
@@ -79,11 +79,11 @@ https://user-images.githubusercontent.com/49381621/140691147-b7222937-45fd-4e39-
 <details>
     <summary>2주차 작업 내용 보기 (펼치기/접기)</summary>
     
-![](https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG) <br>    
+![](https://user-images.githubusercontent.com/49381621/141195640-e1ef9076-dd7f-47ec-b3fc-88f756dbcd18.PNG?raw=true) <br>    
     
 1주차에 정리한 수많은 스프라이트와 애니메이션을 실제로 적용하고 후에 캐릭터 선택 등으로 지정될 1p, 2p의 캐릭터 오브젝트를 만들기 위해서 prefab을 생성했다. 이렇게 생성한 prefab에 1주차 때 적용했었던 중력, 충돌, 판정 등의 컴포넌트를 관리하기 용이하게 세분화하여 나눴다. <br>
     
-![](https://user-images.githubusercontent.com/49381621/141196517-a4c0f1e3-5456-4c9e-8b4e-d4276f46f384.PNG) <br>
+![](https://user-images.githubusercontent.com/49381621/141196517-a4c0f1e3-5456-4c9e-8b4e-d4276f46f384.PNG?raw=true) <br>
     
 저번주에는 캐릭터의 스프라이트 정리 및 애니메이션 지정만 해주었는데, 이는 하나하나 재생해 보면 실제로는 굉장히 부자연스럽거나 어색하게 보였다. 앉은 자세 공격을 할때는 이미지 파일의 크기 차이로 캐릭터가 위아래로 출렁거렸고, 일부 액션들의 속도가 너무 빠르거나 느렸다. 그래서 각 무브셋에 해당하는 스프라이트를 삭제하거나 수정하고, 애니메이션 탭을 이용해 프레임 속도와 프레임 당 이미지 position을 지정해 주는 작업을 했다.
 <br>    
@@ -92,15 +92,15 @@ https://user-images.githubusercontent.com/49381621/141198185-67cfa11a-c3a6-4730-
 
 <br>
     
-![](https://user-images.githubusercontent.com/49381621/141195691-668bdad3-ab71-4db5-b366-07b5b70284ac.PNG) <br>
+![](https://user-images.githubusercontent.com/49381621/141195691-668bdad3-ab71-4db5-b366-07b5b70284ac.PNG?raw=true) <br>
     
 상대 캐릭터와 충돌시 이동이 제한되도록 지정해줄 몸 판정(MovementCollider)이다. 이는 양 캐릭터가 스크린 밖으로 벗어나는 것도 막아줄수 있다 (카메라 화면 너머에 보이지 않는 Collider(투명 벽)도 만들었다). <br>
     
-![](https://user-images.githubusercontent.com/49381621/141195880-b89c7af1-89f7-4879-a538-645cf10723d9.PNG) <br>
+![](https://user-images.githubusercontent.com/49381621/141195880-b89c7af1-89f7-4879-a538-645cf10723d9.PNG?raw=true) <br>
     
 피격 판정 박스이다. Top, Bottom으로 각 상반신과 하반신으로 나누었는데, 그 이유는 앉은 자세의 상단 공격 회피를 구현하기 위해서이다. 전신 무적 판정의 기술 사용시 모든 피격 판정 박스가 사라진다. <br>
     
-![](https://user-images.githubusercontent.com/49381621/141200283-112ef2bb-9d07-4862-a49d-4c73ce14d725.PNG) <br>
+![](https://user-images.githubusercontent.com/49381621/141200283-112ef2bb-9d07-4862-a49d-4c73ce14d725.PNG?raw=true) <br>
     
 같은 방법으로 다른 캐릭터들의 모션도 구현했다. 위의 경우 처럼 프리팹을 생성하여 각각 캐릭터들에게 지정된 애니메이션을 수정했다. <br>
     
