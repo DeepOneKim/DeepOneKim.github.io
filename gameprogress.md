@@ -41,8 +41,10 @@
 <br>
 1-2주차 작업 사항중 가장 첫번째로 한 것은 4명의 캐릭터 각각의 모션들의 스프라이트 자료를 받아 이를 하나의 애니메이션으로 만들기 위해 정리하는 것이였다.
 <br>
-![3](https://user-images.githubusercontent.com/49381621/140686469-a65d3260-c937-4d37-8750-e43d4168aa8f.PNG)
-![1](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
+    
+![](https://user-images.githubusercontent.com/49381621/140686469-a65d3260-c937-4d37-8750-e43d4168aa8f.PNG)
+![](https://user-images.githubusercontent.com/49381621/140686443-4397cc65-c489-48bc-b31e-0c59cc5a41a1.PNG)
+    
 <br>
 (예. 스콜피온의 스프라이트 자료) 
 캐릭터별 모션은 각 14개 항목씩으로, 각각 Being Hit(피격시), Blocking(가드), Walk(걷기), Stand Punch(펀치), Stand Kick(킥), Stand Special(스페셜), Duck(앉기), Duck Punch(앉아 펀치), Duck Kick(앉아 킥), Duck Special(앉아 스페셜), Falling(패배시 쓰러지는 모션), Win Pose(승리 포즈), Timeout Lose(타임아웃 패배시 모션)이 있다. <br>
