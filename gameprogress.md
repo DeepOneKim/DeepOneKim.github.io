@@ -67,7 +67,7 @@
     
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./progressvideo/week1-1.mp4" type="video/mp4">
+    <source src="progressvideo/week1-1.mp4" type="video/mp4">
   </video>
 </figure>    
 
@@ -92,7 +92,11 @@
 저번주에는 캐릭터의 스프라이트 정리 및 애니메이션 지정만 해주었는데, 이는 하나하나 재생해 보면 실제로는 굉장히 부자연스럽거나 어색하게 보였다. 앉은 자세 공격을 할때는 이미지 파일의 크기 차이로 캐릭터가 위아래로 출렁거렸고, 일부 액션들의 속도가 너무 빠르거나 느렸다. 그래서 각 무브셋에 해당하는 스프라이트를 삭제하거나 수정하고, 애니메이션 탭을 이용해 프레임 속도와 프레임 당 이미지 position을 지정해 주는 작업을 했다.
 <br>    
 
-https://user-images.githubusercontent.com/49381621/141198185-67cfa11a-c3a6-4730-8443-c3d9b1e784f5.mp4
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="progressvideo/week2-1.mp4" type="video/mp4">
+  </video>
+</figure> 
 
 <br>
     
