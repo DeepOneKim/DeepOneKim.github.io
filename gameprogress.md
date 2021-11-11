@@ -66,7 +66,7 @@
 <br>
     
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
+  <video height="600" width="900" controls="true" allowfullscreen="true" poster="black.png">
     <source src="progressvideo/week1-1.mp4" type="video/mp4">
   </video>
 </figure>    
@@ -93,7 +93,7 @@
 <br>    
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
+  <video height="600" width="900" controls="true" allowfullscreen="true" poster="black.png">
     <source src="progressvideo/week2-1.mp4" type="video/mp4">
   </video>
 </figure> 
