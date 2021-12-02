@@ -267,6 +267,10 @@ Unity 2D
 - [서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
 - [케이노 스프라이트](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
 - [소냐 블레이드 스프라이트](https://www.mortalkombatwarehouse.com/mk1/sonya/)<br>
+- [맵1](https://www.mortalkombatwarehouse.com/mk1/arenas/throneroom/)<br>
+- [맵2](https://www.mortalkombatwarehouse.com/mk3/arenas/thebridge/)<br>
+- [맵3](https://www.mortalkombatwarehouse.com/mk2/arenas/livingforest/)<br>
+- [맵4](https://www.mortalkombatwarehouse.com/mk1/arenas/thepit/)<br>
 
 
 <br>
