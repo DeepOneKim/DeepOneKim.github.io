@@ -153,7 +153,7 @@
 <details>
     <summary>5주차 작업 내용 보기 (펼치기/접기)</summary>
     
-    ![](https://user-images.githubusercontent.com/49381621/145254694-6a1d86a5-604e-4591-892c-b84f9602b49a.PNG)
+    <img src ="https://user-images.githubusercontent.com/49381621/145254694-6a1d86a5-604e-4591-892c-b84f9602b49a.PNG">
 <br>
     
 <br>    
@@ -168,10 +168,10 @@
 <details>
     <summary>6주차 작업 내용 보기 (펼치기/접기)</summary>
     
-    ![](https://user-images.githubusercontent.com/49381621/145254373-cce4426e-0e0e-4b99-8c5b-47fb205a94da.PNG)
-    ![](https://user-images.githubusercontent.com/49381621/145254388-55c856ff-ba15-4464-baa8-a6170c120a30.PNG)
-    ![](https://user-images.githubusercontent.com/49381621/145254395-fcc5eeec-49c9-4069-8c7b-e9cff7bcd0cb.PNG)
-    ![](https://user-images.githubusercontent.com/49381621/145254441-a55be18f-dafe-4646-af7a-fb8cf04f6448.PNG)
+    <img src ="https://user-images.githubusercontent.com/49381621/145254373-cce4426e-0e0e-4b99-8c5b-47fb205a94da.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145254388-55c856ff-ba15-4464-baa8-a6170c120a30.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145254395-fcc5eeec-49c9-4069-8c7b-e9cff7bcd0cb.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145254441-a55be18f-dafe-4646-af7a-fb8cf04f6448.PNG)">
 
 <br>
     
