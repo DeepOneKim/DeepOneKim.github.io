@@ -263,15 +263,21 @@ Unity 2D
 17. 게임 프로젝트2 기간동안에는 캐릭터와 배경, 소리 등을 웹 소스를 이용해 제작. 이후 졸업 작품으로 개발 시에는 미흡한 부분 보완, 미완성된 부분 추가, 개선하면 좋은 점(UI 디자인, 게임 디자인 구성 등)수정 및 각 캐릭터, 배경 등 소스를 오리지널 소스로 교체하는 작업 개시 
 
 # [소스](#0) <a name='8'></a>
-- [스콜피온 스프라이트](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
-- [서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
-- [케이노 스프라이트](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
-- [소냐 블레이드 스프라이트](https://www.mortalkombatwarehouse.com/mk1/sonya/)<br>
-- [맵1 (동양풍 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/throneroom/)<br>
-- [맵2 (아포칼립틱 현대 도시)](https://www.mortalkombatwarehouse.com/mk3/arenas/thebridge/)<br>
-- [맵3 (어두운 숲 속)](https://www.mortalkombatwarehouse.com/mk2/arenas/livingforest/)<br>
-- [맵4 (음침한 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/thepit/)<br>
+- 스프라이트:
+[스콜피온 스프라이트](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
+[서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
+[케이노 스프라이트](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
+[소냐 블레이드 스프라이트](https://www.mortalkombatwarehouse.com/mk1/sonya/)<br>
+- 배경 :
+[맵1 (동양풍 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/throneroom/)<br>
+[맵2 (아포칼립틱 현대 도시)](https://www.mortalkombatwarehouse.com/mk3/arenas/thebridge/)<br>
+[맵3 (어두운 숲 속)](https://www.mortalkombatwarehouse.com/mk2/arenas/livingforest/)<br>
+[맵4 (음침한 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/thepit/)<br>
 
+- 사운드 :
+메인 메뉴 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Victory and Ending]()<br>
+캐릭터/맵 선택 배경음악:[]()<br>
+각종 UI, 캐릭터 목소리 및 기술:[]()<br>
 
 <br>
 
