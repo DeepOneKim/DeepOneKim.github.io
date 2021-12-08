@@ -11,7 +11,7 @@
 ### 6-1. [개발 요구사항(6주, 게임프로젝트2)](#6-1)
 ### 6-2. [개발 작업](#6-2)
 ### 7. [개발 요구사항(6개월, 졸업작품)](#7)
-### 8. [소스](#8)
+### 8. [소스 출처](#8)
 
 # [컨셉](#0) <a name='1'></a>
 
@@ -262,7 +262,7 @@ Unity 2D
 16. 승부 판정: 한쪽의 체력이 0이 되면 체력이 남아있는 플레이어 승리. 만약 타이머가 0이 될때 까지 결판이 나지 않았다면 타임아웃. 체력이 더 많은 쪽이 승리. 만약 타임아웃 시에 서로 체력이 같으면 마지막에 공격을 적중(피격, 가드) 시킨 플레이어가 승리하도록 함. 이 점을 계속 체크 하기 위해 1p 혹은 2p가 자신의 공격을 상대에게 피격 or 가드 시킬때 마다 해당 상황을 확인하는 변수에 계속 갱신한다.
 17. 게임 프로젝트2 기간동안에는 캐릭터와 배경, 소리 등을 웹 소스를 이용해 제작. 이후 졸업 작품으로 개발 시에는 미흡한 부분 보완, 미완성된 부분 추가, 개선하면 좋은 점(UI 디자인, 게임 디자인 구성 등)수정 및 각 캐릭터, 배경 등 소스를 오리지널 소스로 교체하는 작업 개시 
 
-# [소스](#0) <a name='8'></a>
+# [소스 출처](#0) <a name='8'></a>
 - 스프라이트:
 [스콜피온 스프라이트](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
 [서브-제로 스프라이트](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
@@ -275,9 +275,13 @@ Unity 2D
 [맵4 (음침한 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/thepit/)<br>
 
 - 사운드 :
-메인 메뉴 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Victory and Ending]()<br>
-캐릭터/맵 선택 배경음악:[]()<br>
-각종 UI, 캐릭터 목소리 및 기술:[]()<br>
+메인 메뉴 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Victory and Ending](https://www.youtube.com/watch?v=RF7DjGziHZg)<br>
+캐릭터/맵 선택 배경음악: [Mortal Kombat 1 Arcade - OST Music Soundtrack - In The Beginning - Character Select](https://www.youtube.com/watch?v=omvdFcr0z08)<br>
+맵 1 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Throne Room](https://www.youtube.com/watch?v=O-_jZchKYaQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=7)<br>
+맵 2 배경음악: [Mortal Kombat 3 - The Bridge - Remake](https://www.youtube.com/watch?v=lppU2bCl7V8)<br>
+맵 3 배경음악: [Mortal Kombat 2 MusicThe Living Forest](https://www.youtube.com/watch?v=jMJJ47lO25M)<br>
+맵 4 배경음악: [Mortal Kombat 1 Arcade OST - Original Music Soundtrack - The Bridge (The Pit)](https://www.youtube.com/watch?v=tgWtxnyggOQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=6)<br>
+[각종 UI, 캐릭터 목소리 및 기술](https://www.mortalkombatwarehouse.com/mk1/sounds/)<br>
 
 <br>
 
