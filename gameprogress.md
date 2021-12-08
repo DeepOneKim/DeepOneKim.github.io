@@ -168,10 +168,10 @@
 <details>
     <summary>6주차 작업 내용 보기 (펼치기/접기)</summary>
     
-    <img src ="https://user-images.githubusercontent.com/49381621/145254373-cce4426e-0e0e-4b99-8c5b-47fb205a94da.PNG)">
-    <img src ="https://user-images.githubusercontent.com/49381621/145254388-55c856ff-ba15-4464-baa8-a6170c120a30.PNG)">
-    <img src ="https://user-images.githubusercontent.com/49381621/145254395-fcc5eeec-49c9-4069-8c7b-e9cff7bcd0cb.PNG)">
-    <img src ="https://user-images.githubusercontent.com/49381621/145254441-a55be18f-dafe-4646-af7a-fb8cf04f6448.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145256510-1cb07824-c298-446f-b49c-182c37c68cfd.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145256549-c724ed71-fed9-4ccf-8be9-9e251333d332.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145256557-79afa175-30ff-4261-80a3-9c0dba478ffb.PNG)">
+    <img src ="https://user-images.githubusercontent.com/49381621/145256566-68fc0aaa-e32c-4b90-b680-86366a74a5b3.PNG)">
 
 <br>
     
