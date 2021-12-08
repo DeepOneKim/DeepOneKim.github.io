@@ -241,7 +241,7 @@ Unity 2D
 10. Exit(종료): 클릭시 게임 종료
 # [개발 작업](#0) <a name='6-2'></a>
 
-<font size="20px"> [내용보기](gameprogress.md) </font>
+# [내용보기]
 
 # [개발 요구사항(6개월, 졸업작품)](#0) <a name='7'></a>
 1. 조작: a, s, d(←,↓,→), j, k, l(P, K, S) 연습장 더미의 경우 ←, ↓, →, numpad4, numpad5, numpad6(P, K, S) (변경될 수 있음)
