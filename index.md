@@ -240,8 +240,7 @@ Unity 2D
 9. Multiplayer(대전): 플레이어가 다른 사람과 대전하는 모드. 각 플레이어의 1p, 2p 할당키 조작으로 로컬 대전.
 10. Exit(종료): 클릭시 게임 종료
 # [개발 작업](#0) <a name='6-2'></a>
-
-# [내용보기](gameprogress.md)
+[내용보기](gameprogress.md)
 
 # [개발 요구사항(6개월, 졸업작품)](#0) <a name='7'></a>
 1. 조작: a, s, d(←,↓,→), j, k, l(P, K, S) 연습장 더미의 경우 ←, ↓, →, numpad4, numpad5, numpad6(P, K, S) (변경될 수 있음)
