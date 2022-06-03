@@ -1,5 +1,5 @@
-# 프로젝트명: Mighter Fighters
-- 더 강한(Mightier) 파이터(Fighter)를 가린다는 의미로 라임을 맞추어 만든 제목 (원래 mighter는 틀린 표현임)
+# Mighter Fighters Blog
+1788005 김민창
 ## 목차 <a name='0'></a>
 - 클릭하면 이동합니다.
 ### 1. [게임 소개](#1)
@@ -12,6 +12,9 @@
 ### 8. [리소스 출처](#8)
 
 # [게임 소개](#0) <a name='1'></a>
+
+## 프로젝트명: Mighter Fighters
+- 더 강한(Mightier) 파이터(Fighter)를 가린다는 의미로 라임을 맞추어 만든 제목 (원래 mighter는 틀린 표현임) 
 
 # [컨셉](#0) <a name='2'></a>
 
