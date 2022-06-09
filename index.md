@@ -22,6 +22,7 @@
 - 평소 격투 게임을 좋아해서 주변 사람들에게도 권했는데, 대부분 게임을 어려워했다. 격투 게임 속 심리전의 재미를 느끼기 전에 그만두는 경우가 많았다.
   그래서 이를 보고 격투 게임을 조작과 룰을 단순화해서 만들면 초보자도 어려워 하지 않고 즐길 수 있지 않을까 생각해서 이 작품을 만들게 되었다.
 <br>
+
 # [컨셉](#0) <a name='2'></a>
 
 ### 메인 컨셉 : 심리전(Mind Games)
@@ -37,6 +38,31 @@
 - 메인 컨셉인 "심리전"을 초보자들도 쉽게 익히려면 게임의 룰과 조작이 단순해야 한다고 생각했다.
 - 플레이에 금방 적응할 수 있도록 조작법을 단순화
 - 체력바, 필살기 게이지등의 표시를 직관적이게 했다.(칸의 갯수로 표시)
+
+
+### 컨셉 설명
+
+![메인1](https://user-images.githubusercontent.com/49381621/135263482-d1e514eb-ebb3-4958-82b8-2a79775796c8.jpg)
+
+![메인2](https://user-images.githubusercontent.com/49381621/135262981-e5d08e15-72e4-4034-b531-e5b3efe88813.jpg)
+
+![메인3](https://user-images.githubusercontent.com/49381621/135262984-244d549d-f183-4f0d-8d42-627b86bf3897.jpg)
+
+![메인4](https://user-images.githubusercontent.com/49381621/135262985-f15bfbb7-b0d8-4de5-88c2-aa5fd1bab808.jpg)
+
+![메인5](https://user-images.githubusercontent.com/49381621/135262987-6b2b44ad-5417-41ee-b669-f4d07138d6f3.jpg)
+
+![메인6](https://user-images.githubusercontent.com/49381621/135262988-43e1e3d6-bed4-4e15-a4f1-eed3ab6b45e4.jpg)
+
+![메인7](https://user-images.githubusercontent.com/49381621/135262989-120bc4eb-233b-4abe-94be-69c6e995d0cf.jpg)
+
+![메인8](https://user-images.githubusercontent.com/49381621/135262991-958f4a6f-c2f3-4450-bd91-e7d7a66a2733.jpg)
+
+![메인9](https://user-images.githubusercontent.com/49381621/135262992-d5bd1526-18a5-4ead-8f28-cc90c32ca446.jpg)
+
+![메인10](https://user-images.githubusercontent.com/49381621/135262994-b1b786e8-fee6-4bbb-95bb-ef713cc47fa8.jpg)
+
+![메인11](https://user-images.githubusercontent.com/49381621/135262996-d5932b57-aa0f-471e-a24b-46247f30f588.jpg)
 
 <br>
 
@@ -90,32 +116,6 @@
 극히 단순한 조작법과 룰을 적용하여 개발 리소스를 최소화 시켰다.
 
 일정 횟수 이상 가드를 할 수 없어서 상대의 공격을 피하거나 상대 움직임의 빈틈을 이용하는 플레이가 주가 된다.
-
-<br>
-
-### 컨셉 설명
-
-![메인1](https://user-images.githubusercontent.com/49381621/135263482-d1e514eb-ebb3-4958-82b8-2a79775796c8.jpg)
-
-![메인2](https://user-images.githubusercontent.com/49381621/135262981-e5d08e15-72e4-4034-b531-e5b3efe88813.jpg)
-
-![메인3](https://user-images.githubusercontent.com/49381621/135262984-244d549d-f183-4f0d-8d42-627b86bf3897.jpg)
-
-![메인4](https://user-images.githubusercontent.com/49381621/135262985-f15bfbb7-b0d8-4de5-88c2-aa5fd1bab808.jpg)
-
-![메인5](https://user-images.githubusercontent.com/49381621/135262987-6b2b44ad-5417-41ee-b669-f4d07138d6f3.jpg)
-
-![메인6](https://user-images.githubusercontent.com/49381621/135262988-43e1e3d6-bed4-4e15-a4f1-eed3ab6b45e4.jpg)
-
-![메인7](https://user-images.githubusercontent.com/49381621/135262989-120bc4eb-233b-4abe-94be-69c6e995d0cf.jpg)
-
-![메인8](https://user-images.githubusercontent.com/49381621/135262991-958f4a6f-c2f3-4450-bd91-e7d7a66a2733.jpg)
-
-![메인9](https://user-images.githubusercontent.com/49381621/135262992-d5bd1526-18a5-4ead-8f28-cc90c32ca446.jpg)
-
-![메인10](https://user-images.githubusercontent.com/49381621/135262994-b1b786e8-fee6-4bbb-95bb-ef713cc47fa8.jpg)
-
-![메인11](https://user-images.githubusercontent.com/49381621/135262996-d5932b57-aa0f-471e-a24b-46247f30f588.jpg)
 
 <br>
 
