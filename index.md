@@ -230,14 +230,14 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 [맵3 (어두운 숲 속)](https://www.mortalkombatwarehouse.com/mk2/arenas/livingforest/)<br>
 [맵4 (음침한 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/thepit/)<br>
 
-- 사운드 :
-메인 메뉴 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Victory and Ending](https://www.youtube.com/watch?v=RF7DjGziHZg)<br>
-캐릭터/맵 선택 배경음악: [Mortal Kombat 1 Arcade - OST Music Soundtrack - In The Beginning - Character Select](https://www.youtube.com/watch?v=omvdFcr0z08)<br>
+- 사운드 : <br>
+메인 메뉴 음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Victory and Ending](https://www.youtube.com/watch?v=RF7DjGziHZg)<br>
+캐릭터/맵 선택 음악: [Mortal Kombat 1 Arcade - OST Music Soundtrack - In The Beginning - Character Select](https://www.youtube.com/watch?v=omvdFcr0z08)<br>
 맵 1 배경음악: [Mortal Kombat 1 Arcade OST Original Music Soundtrack Throne Room](https://www.youtube.com/watch?v=O-_jZchKYaQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=7)<br>
 맵 2 배경음악: [Mortal Kombat 3 - The Bridge - Remake](https://www.youtube.com/watch?v=lppU2bCl7V8)<br>
 맵 3 배경음악: [Mortal Kombat 2 MusicThe Living Forest](https://www.youtube.com/watch?v=jMJJ47lO25M)<br>
 맵 4 배경음악: [Mortal Kombat 1 Arcade OST - Original Music Soundtrack - The Bridge (The Pit)](https://www.youtube.com/watch?v=tgWtxnyggOQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=6)<br>
-[각종 UI, 캐릭터 목소리 및 기술](https://www.mortalkombatwarehouse.com/mk1/sounds/)<br>
+[UI, 기합 소리 및 기술 사운드](https://www.mortalkombatwarehouse.com/mk1/sounds/)<br>
 
 
 <br>
