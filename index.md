@@ -136,9 +136,9 @@
 ```
 1p (좌)
 ←, ↓, → 방향 입력 (a, s, d)
-P(unch) = f
-K(ick) = g
-S(pecial) = h
+P(unch) = j
+K(ick) = k
+S(pecial) = l
 
 2p (우)
 ←, ↓, → 방향입력 (방향키 ←, ↓, →)
