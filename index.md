@@ -236,6 +236,8 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 맵 4 배경음악: [Mortal Kombat 1 Arcade OST - Original Music Soundtrack - The Bridge (The Pit)](https://www.youtube.com/watch?v=tgWtxnyggOQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=6)<br>
 [각종 UI, 캐릭터 목소리 및 기술](https://www.mortalkombatwarehouse.com/mk1/sounds/)<br>
 
+- 원작 : Mortal Kombat 1~3 (NetherRealm Studios)
+
 <br>
 
 <br>
