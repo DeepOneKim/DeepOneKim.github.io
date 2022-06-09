@@ -220,10 +220,10 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 - 원작 : Mortal Kombat 1~3 (NetherRealm Studios)
 
 - 스프라이트:
-[스콜피온](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/)<br>
-[서브-제로](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/)<br>
-[케이노](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/)<br>
+[스콜피온](https://www.mortalkombatwarehouse.com/mk1/scorpion/sprites/), [서브-제로](https://www.mortalkombatwarehouse.com/mk1/subzero/sprites/), 
+[케이노](https://www.mortalkombatwarehouse.com/mk1/kano/sprites/), 
 [소냐 블레이드](https://www.mortalkombatwarehouse.com/mk1/sonya/)<br>
+
 - 배경 :
 [맵1 (동양풍 배경)](https://www.mortalkombatwarehouse.com/mk1/arenas/throneroom/)<br>
 [맵2 (아포칼립틱 현대 도시)](https://www.mortalkombatwarehouse.com/mk3/arenas/thebridge/)<br>
