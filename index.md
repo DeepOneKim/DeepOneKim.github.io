@@ -130,6 +130,9 @@
 ## 1. 게임 메커니즘
 
 ### 조작법
+
+![키보드](https://user-images.githubusercontent.com/49381621/172907087-6e949974-8297-49c7-9af9-93ad71dc7fb8.jpg)
+
 ```
 1p (좌)
 ←, ↓, → 방향 입력 (a, s, d)
