@@ -20,7 +20,7 @@
 - 개발: Unity 3D
 - 평소 격투 게임을 좋아해서 주변 사람들에게도 권했는데, 대부분 게임을 어려워했다. 격투 게임 속 심리전의 재미를 느끼기 전에 그만두는 경우가 많았다.
   그래서 이를 보고 격투 게임을 조작과 룰을 단순화해서 만들면 초보자도 어려워 하지 않고 즐길 수 있지 않을까 생각해서 이 작품을 만들게 되었다.
-
+<br>
 # [컨셉](#0) <a name='2'></a>
 
 ### 메인 컨셉 : 심리전(Mind Games)
@@ -90,7 +90,7 @@
 
 일정 횟수 이상 가드를 할 수 없어서 상대의 공격을 피하거나 상대 움직임의 빈틈을 이용하는 플레이가 주가 된다.
 
-<br><br>
+<br>
 
 # [대표 이미지](#0) <a name='4'></a>
 
@@ -116,7 +116,7 @@
 
 ![메인11](https://user-images.githubusercontent.com/49381621/135262996-d5932b57-aa0f-471e-a24b-46247f30f588.jpg)
 
-<br><br>
+<br>
 
 # [Mighter Fighters의 구성 요소](#0) <a name='5'></a>
 
@@ -188,16 +188,16 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 4가지 맵(배경)을 선택할 수 있으며 각자 어울리는 테마가 전투중에 재생된다.
 양 플레이어 화면 하단부에 스페셜 게이지가 있다. 스페셜 게이지는 아이콘으로 표시되며 사용 시마다 하나씩 줄어든다. 캐릭터 마다 기술과 본인의 테마를 상징하는 아이콘이 표현된다.
 
-
+<br>
 # [게임 시스템 디자인](#0) <a name='9'></a>
 [내용보기](gamesystemdesign.md)
-
+<br>
 # [게임 플레이 시나리오 개요](#0) <a name='9'></a> 
 
 [내용보기(개발자 관점)](gameplayscenario1.md)
 <br>
 [내용보기(유저 관점)](gameplayscenario2.md)
-
+<br>
 # [개발 요구사항](#0) <a name='6'></a>
 1. 캐릭터 조작 : 1P기준 a, s, d(←,↓,→), j, k, l(P, K, S) 2p기준 (or 연습장 더미) ←, ↓, →, numpad4, numpad5, numpad6(P, K, S) 
 2. 화면: 시작(메뉴), 로딩, 캐릭터 선택, 맵 선택, 전투 화면 화면 총 5개의 화면 (로딩화면의 경우 미리 만들어둔 이미지를 이용해 로딩 창 너머의 게임이 불러와지는 과정을 보이지 않게 가린다. 만약 불필요하다 판단되면 적용하지 않는다 이 경우 4개)
@@ -231,7 +231,7 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 
 # [개발 작업](#0) <a name='7'></a>
 [내용보기](gameprogress.md)
-
+<br>
 # [리소스 출처](#0) <a name='8'></a>
 
 - 원작 : Mortal Kombat 1~3 (NetherRealm Studios)
@@ -256,8 +256,6 @@ S키에 대응하는 버튼으로 기술 사용 가능. (캐릭터마다 성능�
 맵 4 배경음악: [Mortal Kombat 1 Arcade OST - Original Music Soundtrack - The Bridge (The Pit)](https://www.youtube.com/watch?v=tgWtxnyggOQ&list=PLNJZ_2XtY314QB9yr7ABNETJn6Bo42f3p&index=6)<br>
 [UI, 기합 소리 및 기술 사운드](https://www.mortalkombatwarehouse.com/mk1/sounds/)<br>
 
-
-<br>
 
 <br>
 
