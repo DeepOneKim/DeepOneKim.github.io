@@ -121,6 +121,7 @@
 ![메인11](https://user-images.githubusercontent.com/49381621/135262996-d5932b57-aa0f-471e-a24b-46247f30f588.jpg)
 
 <br>
+
 # [구성 요소](#0) <a name='5'></a>
 
 - Mighter Fighters의 구성 요소로 게임 메커니즘, 시나리오, 외적 디자인에 대해서 설명한다.
