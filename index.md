@@ -1,6 +1,6 @@
 # **Mighter Fighters Blog**
-글쓴이: 1788005 게임공학과 김민창
 ![1](https://user-images.githubusercontent.com/49381621/172955197-ab901f34-02f6-4429-b16b-4bc48b522a40.PNG)
+1788005 김민창
 ## 목차 <a name='0'></a>
 - 클릭하면 이동합니다.<br>
 **1. [게임 소개](#1)**<br>
